@@ -1,2 +1,2 @@
-# Data_Analyst_Search_Case
+# Data_Analyst_Search
 Data Analyst with python
